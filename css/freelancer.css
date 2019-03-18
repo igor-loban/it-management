@@ -216,7 +216,7 @@ header.masthead h2 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, 0.9);
+  background-color: rgba(50, 148, 166, 0.95);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -348,11 +348,11 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: #28aC6C !important;
 }
 
 .bg-secondary {
-  background-color: #2C3E50 !important;
+  background-color: #224E90 !important;
 }
 
 .text-primary {
@@ -364,8 +364,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #28BC9C;
+  border-color: #28BC9C;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -374,11 +374,11 @@ a:focus, a:hover, a:active {
 }
 
 .btn-secondary {
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: #4C3E50;
+  border-color: #4C3E50;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #1a252f;
-  border-color: #1a252f;
+  background-color: #1a555f;
+  border-color: #1a555f;
 }
